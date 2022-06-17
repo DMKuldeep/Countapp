@@ -1,0 +1,60 @@
+.control__btn{
+margin: 20px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+background-color: rgba(19, 19, 18, 0.342);
+text-decoration: whitesmoke;
+font-display: serif;
+border-top-left-radius: 60px;
+border-top-right-radius: 60px;
+box-sizing: 80px;
+font-size: 40px;
+
+
+
+}
+
+.h1 {
+
+  background-color: lightblue;
+  font-stretch: lightblue;
+
+}
+
+.reset{
+  backface-visibility: 80%;
+  font-size: 40px;
+  border-radius: 10px;
+  border-style: 10px;
+  text-shadow: 70px;
+
+
+
+}
+
+
+.body{
+  content: center
+  ;
+}
+
+.counter__output{
+font-size:70px;
+
+justify-content: center;
+}
+
+.counter{
+  background-color:orange;
+
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
